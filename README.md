@@ -18,4 +18,4 @@ The script reads input from a text file containing shipments and outputs the cal
 ## Installation
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/shipping-cost-calculator.git
+   git clone https://github.com/mcepulis/shipment_project.git
